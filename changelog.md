@@ -1,0 +1,12 @@
+### Current version: 4.0.20
+- [lets see how it likes gradle 2.14](https://github.com/jaredlll08/ModTweaker/commit/8ba1b84d2b977718f626d785dc4cf5883f646b40) - Colin Wong - Mon Jun 20 03:46:33 2022
+- [Enable debug flag](https://github.com/jaredlll08/ModTweaker/commit/966235271a6a130e7786811bf9ea8b86fd5a954f) - Colin Wong - Mon Jun 20 03:33:27 2022
+- [Update deps](https://github.com/jaredlll08/ModTweaker/commit/40b3bc146447ede73efc9decd006e3098f7e9981) - Colin Wong - Mon Jun 20 01:40:26 2022
+- [Print stacktrace](https://github.com/jaredlll08/ModTweaker/commit/6129abadfe8c354d19cccabc16e32e18a37e3d63) - Jared - Mon Jun 20 01:36:08 2022
+- [Return new mill builder with every .builder()](https://github.com/jaredlll08/ModTweaker/commit/af7808c35728b154f55c7e24f9a56ef37489f934) - Colin Wong - Mon Jun 20 01:18:49 2022
+- [Add TICMaterial methods for checking if stat exists (fixes #782)](https://github.com/jaredlll08/ModTweaker/commit/3fec35f97692dfe38a35998b4a3772082a0bd3b3) - Colin Wong - Tue Oct 12 05:16:15 2021
+- [don't try push to maven](https://github.com/jaredlll08/ModTweaker/commit/78021c0715d0b72aab862933ef7c62f55653aba2) - Jared - Tue Jun 29 13:18:50 2021
+- [fix build](https://github.com/jaredlll08/ModTweaker/commit/504119a3e807990193b7cb55da95620886c37e0f) - Jared - Tue Jun 29 13:12:35 2021
+- [auto curse push code](https://github.com/jaredlll08/ModTweaker/commit/77a1633529b9e2c9e9ffbc52fa83f785df419b2a) - Jared - Tue Jun 29 13:08:55 2021
+- [old version push](https://github.com/jaredlll08/ModTweaker/commit/521462c17027d124081bc5f923aff106d4c54f4f) - Jared - Tue Jun 29 12:49:16 2021
+- [Add support for pulley blocks (#781)](https://github.com/jaredlll08/ModTweaker/commit/0b5404c71101db84670e49d546c148e7d733994a) - Colin Wong - Wed Jun 23 18:34:06 2021
