@@ -8,6 +8,7 @@ import minetweaker.runtime.providers.ScriptProviderDirectory;
 import minetweaker.util.IEventHandler;
 import modtweaker2.mods.appeng.AppliedEnergistics;
 import modtweaker2.mods.auracascade.AuraCascade;
+import modtweaker2.mods.auracore.AuraCore;
 import modtweaker2.mods.botania.Botania;
 import modtweaker2.mods.botanicaladdons.BotanicalAddons;
 import modtweaker2.mods.chisel.Chisel;
@@ -82,6 +83,7 @@ public class ModTweaker2 {
 		TweakerPlugin.register("aura", AuraCascade.class);
 		TweakerPlugin.register("ExtraUtilities", ExtraUtils.class);
 		TweakerPlugin.register("IC2", IC2C.class);
+		TweakerPlugin.register("auracore", AuraCore.class);
 		
 
 		if (FMLCommonHandler.instance().getSide() == Side.CLIENT) {

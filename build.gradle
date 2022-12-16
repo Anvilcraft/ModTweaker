@@ -50,9 +50,13 @@ repositories {
             artifact()
         }
     }
+    maven {
+        url = "https://maven.tilera.xyz"
+    }
 }
 
 dependencies {
+    implementation "dev.tilera:auracore:1.2.0:deobf"
     implementation "net.sengir.forestry:forestry_${config.minecraft.version}:${config.forestry.version}:api"
 }
 
