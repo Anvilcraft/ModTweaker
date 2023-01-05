@@ -17,7 +17,7 @@ import net.minecraft.item.ItemStack;
 import stanhebben.zenscript.annotations.ZenClass;
 import stanhebben.zenscript.annotations.ZenMethod;
 
-@ZenClass("mods.mekanism.chemical.Elementizer")
+@ZenClass("mods.mekanism.Elementizer")
 public class TheoreticalElementizer {
 
     public static final String name = "Theoretical Elementizer";
@@ -159,7 +159,7 @@ public class TheoreticalElementizer {
 	}
 
     @ZenMethod
-	public static void RemoveFuel(IIngredient input) {
+	public static void removeFuel(IIngredient input) {
 	    List<ItemStack> recipes = new LinkedList<ItemStack>();
 	    
 	    for(ItemStack recipe : ElementizerRecipeHandler.fuelItems) {
